@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488705395030",
+    "project_id": "chorelink-6270a",
+    "storage_bucket": "chorelink-6270a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488705395030:android:82bbd39010d6a69c24eef7",
+        "android_client_info": {
+          "package_name": "com.riruro.chorelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExzW0S2jDmrLNctVfx08LTxC5eguaiSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
